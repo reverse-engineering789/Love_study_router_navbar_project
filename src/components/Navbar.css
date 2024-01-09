@@ -1,0 +1,22 @@
+ .main-navbar{
+    display: flex;
+}
+
+/* .navbar-items{
+    display: flex;
+}  */
+
+.navbar-items-list{
+    display: flex;
+    gap: 1rem;
+}
+
+.navbar-buttons{
+    display: flex;
+    margin-right: 3px;
+    margin-left: 5px;
+    gap: 3rem;
+}
+h1{
+    color: red;
+}
